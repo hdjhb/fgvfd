@@ -24,3 +24,4 @@ if guess == secret:                           \
 else:
     print "次数用尽! 希望你下次能猜得更准，兄弟!"
     print "这次的私密数其实为：", secret
+    
